@@ -1,6 +1,6 @@
 # All Restaurants in Spartanburg (Metro), South Carolina, US
 
-> Free BeamStation sample export with 101 rows and masked direct-contact fields.
+> Free BeamStation sample export with 109 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `979527` |
 | Location | Spartanburg, SC |
 | Category | Restaurants |
-| Full dataset size | 1,019 records |
-| Free sample size | 101 records (9.91%) |
-| Last export | 2026-04-28T23:17:01.879533+00:00 |
+| Full dataset size | 1,092 records |
+| Free sample size | 109 records (9.98%) |
+| Last export | 2026-05-08T02:29:11.401374+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-spartanburg-metro-south-carolina-us-sample-979527/releases/download/sample-latest/beamstation_979527_restaurants-us-spartanburgsc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
