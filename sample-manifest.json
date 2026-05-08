@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fb813687-55c9-4db9-bde4-19004217dec6",
+  "export_job_id": "0c9515e5-a81b-4bc2-9301-5e94f6a107d7",
   "id_short": 979527,
-  "published_at": "2026-04-29T07:50:34Z",
+  "published_at": "2026-05-08T07:11:26Z",
   "repo_name": "all-restaurants-in-spartanburg-metro-south-carolina-us-sample-979527",
   "sample_asset_name": "beamstation_979527_restaurants-us-spartanburgsc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/979527/beamstation_979527_restaurants-us-spartanburgsc_SAMPLE_DIST.csv",
-  "sample_records": 101,
-  "sample_sha256": "7a3aa9265f6f073311efe7f8fe7e8a8cdb65c408e26034899f82d1878f46d683",
-  "sample_size_bytes": 366822,
-  "total_records": 1019
+  "sample_records": 109,
+  "sample_sha256": "1b583b5f5df81521bead87fe9d2be21294b0120d151e1dcc62b0d746b8c8489c",
+  "sample_size_bytes": 435656,
+  "total_records": 1092
 }
